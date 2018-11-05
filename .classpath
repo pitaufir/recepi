@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/shaufyq/Desktop/sem 5/distributed application program/Java Libraries - jar files-20181009/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shaufyq/Desktop/sem 5/distributed application program/Java Libraries - jar files-20181009/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shaufyq/Desktop/sem 5/distributed application program/Java Libraries - jar files-20181009/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shaufyq/Desktop/sem 5/distributed application program/Java Libraries - jar files-20181009/java-json.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/BITP3123/java-json.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ahmad firdaus/git/dad-lab5/dad-lab5/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ahmad firdaus/git/dad-lab5/dad-lab5/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
